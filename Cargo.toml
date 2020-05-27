@@ -1,0 +1,15 @@
+[package]
+name = "jailctl"
+version = "0.1.0"
+authors = ["Nicolas Embriz <nbari@tequila.io>"]
+description = "FreeBSD jail management utility"
+documentation = "https://github.com/jailctl/jailctl/master/README.md"
+homepage = "https://github.com/jailctl"
+repository = "https://github.com/jailctl/jailctl"
+readme = "README.md"
+keywords = ["jail", "freebsd", "chroot", "container", "management"]
+categories = ["command-line-utilities", "command-line-interface"]
+license-file = "LICENSE"
+edition = "2018"
+
+[dependencies]
